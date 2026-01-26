@@ -1,10 +1,13 @@
 # IEOR 142A Spring 2025 – Egg Price Prediction Project
 
+## Dashboard
+https://eggstest.onrender.com
+
 ## What This Project Is
 
 In this case, the team focused on **estimating egg prices** using a variety of machine learning models and time series forecasting techniques. The project not only predicts future prices but also analyzes which features are most correlated with fluctuations in egg pricing.
 
-## Why This Project Matters
+## Why This Project
 
 Egg pricing is influenced by a complex set of factors including supply chain disruptions, feed costs, consumer demand, outbreaks, and economic indicators. Understanding and forecasting egg prices has real implications for both consumers and agricultural suppliers.
 
@@ -15,7 +18,7 @@ This project is useful as:
 * A framework for analyzing feature importance in price prediction problems.
 * A practical example of time series forecasting using ARIMA and SARIMA.
 
-## How to Explore or Reuse the Project
+## Project Uses
 
 1. Clone the repository and navigate through the notebook and script files to view model implementations.
 2. Review the data exploration and preprocessing steps for insights into handling real-world agricultural data.
@@ -30,7 +33,7 @@ This repository is for academic purposes and is not actively maintained, however
 * For questions about similar projects or course-related content, reach out to the **UC Berkeley IEOR Department**.
 * If you'd like to adapt this project or methodology to your own work, feel free to credit the course and project team accordingly.
 
-## Who Created and Contributed to This Project
+## Contributors
 
 This project was developed by a team of students in the Spring 2025 offering of **IEOR 142A: Machine Learning and Data Analytics** at UC Berkeley. This was the final project of the course, with the goal of exploring real-world data through the lens of machine learning by selecting a topic of interest and applying models learned in the course.
 
@@ -42,6 +45,3 @@ Students involved: Anjana Hariprasad, Jordan Agresti, Xenia Chen, Nikita Mehenda
 
 ## Final Paper and Presentation
 [142A Final Project Report.pdf](https://github.com/user-attachments/files/20584825/142A.Final.Project.Report.pdf)
-
-## Dashboard
-https://eggstest.onrender.com
