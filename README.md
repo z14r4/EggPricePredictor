@@ -1,7 +1,8 @@
 # IEOR 142A Spring 2025 – Egg Price Prediction Project
 
-## Dashboard
+## Presentation
 https://eggstest.onrender.com
+[142A Final Project Report.pdf](https://github.com/user-attachments/files/20584825/142A.Final.Project.Report.pdf)
 
 ## What This Project Is
 
@@ -42,6 +43,3 @@ The team implemented all models from scratch and carried out all analysis, model
 The course is taught by faculty in the **Industrial Engineering and Operations Research (IEOR)** department, with guidance and feedback provided by the course staff.
 
 Students involved: Anjana Hariprasad, Jordan Agresti, Xenia Chen, Nikita Mehendale, Ethan Rubin, and Ziara Vasquez.
-
-## Final Paper and Presentation
-[142A Final Project Report.pdf](https://github.com/user-attachments/files/20584825/142A.Final.Project.Report.pdf)
