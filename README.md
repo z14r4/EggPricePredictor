@@ -1,4 +1,4 @@
-# IEOR 142A Spring 2025 – Egg Price Prediction Project
+# IEOR 142A Spring 2025 – Egg Price Predictor Project
 
 ## Presentation
 https://eggstest.onrender.com
